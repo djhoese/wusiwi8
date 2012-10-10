@@ -3,7 +3,7 @@ import os
 import sys
 
 def main():
-    print "Hello World"
+    print "Hello Whirled Peas and Vodka Pudding"
 
 if __name__ == "__main__":
     sys.exit(main())
